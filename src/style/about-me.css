@@ -1,0 +1,35 @@
+.main-box{
+    background-color: wheat;
+    margin: 0 auto;
+    color: black;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    padding-bottom: 5px;
+}
+img{
+    line-height: 100px;
+    width: 125px;
+}
+.image-div {
+    float: left;
+    margin-right: 25px;
+}
+body{
+    background-image: url('https://www.photohdx.com/images/2016/11/clean-white-grey-paper-background.jpg');
+}
+p {
+    display: inline;
+}
+.main a {
+    color: blue;
+}
+.navbar-brand{
+    font-weight: bold;
+}
+footer{
+    background-color: wheat;
+    color: black;
+    border-top: black;
+    border-width: 10px;
+    text-align: center;
+}
