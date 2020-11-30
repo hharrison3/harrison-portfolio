@@ -54,7 +54,7 @@ export const Portfolio = () => {
                         <div className="card-body">
                             <h5 className="card-title">Project 3</h5>
                             <p className="card-text">A day planner to keep track of all your daily activities and responsibilities.
-                            Resets each work day
+                            Resets each work day.
               </p>
                             <ul>
                                 <li>
@@ -67,18 +67,18 @@ export const Portfolio = () => {
                         </div>
                     </div>
                     <div className="card" style={styles.card}>
-                        <img src="https://images.idgesg.net/images/article/2018/08/5_password-best-practices_unique-passwords_authentication-100768646-large.jpg" className="card-img-top" alt="Password" />
+                        <img src="https://intermountainhealthcare.org/-/media/coronavirus-covid-19.jpg?mw=1600" className="card-img-top" alt="Password" />
                         <div className="card-body">
                             <h5 className="card-title">Project 4</h5>
-                            <p className="card-text">A password generator with several user options to create a secure,
-                            desired password.
+                            <p className="card-text">Covid tracer application with ways to track users covid status, other users
+                            status, and access to test sites.
               </p>
                             <ul>
                                 <li>
-                                    <a href=" https://hharrison3.github.io/passwordGenerator/02-Homework/Develop/index.html" target="_blank">Link to project</a>
+                                    <a href="https://github.com/hharrison3/Project-2" target="_blank" rel="noreferrer">Deployment in process</a>
                                 </li>
                                 <li>
-                                    <a href="https://github.com/hharrison3/passwordGenerator" target="_blank" rel="noreferrer">Link to Github</a>
+                                    <a href="https://github.com/hharrison3/Project-2" target="_blank" rel="noreferrer">Link to Github</a>
                                 </li>
                             </ul>
                         </div>
